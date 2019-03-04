@@ -1,9 +1,4 @@
 {
   "link": "https://www.vk.com/",
-  "facebookID" : "facebookID",
-  "admobID": [
-    "id1",
-    "id2",
-    "id3"
-  ]
+  "flag" : "0"
 }
