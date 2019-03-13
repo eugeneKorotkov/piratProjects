@@ -1,29 +1,34 @@
 {
-  "arrayOffers":
-  [{"name": "categoryname1",
-  "subcat": 
-  [
+  "arrayOffers": [
     {
-      "name": "name2", 
-      "url":  "url1"
-    }, 
+      "name": "categoryname1",
+      "urlIcon": "url",
+      "color": "#000000",
+      "subcat": [
+        {
+          "name": "name2",
+          "url": "url1"
+        },
+        {
+          "name": "name3",
+          "url": "url2"
+        }
+      ]
+    },
     {
-      "name":  "name3",
-      "url":  "url2"
+      "name": "categoryname2",
+      "urlIcon": "url",
+      "color": "#000000",
+      "subcat": [
+        {
+          "name": "name5",
+          "url": "url6"
+        },
+        {
+          "name": "name7",
+          "url": "url8"
+        }
+      ]
     }
   ]
-},
-  {
-  "name": "categoryname2",
-  "subcat": 
-  [
-    {
-      "name": "name5",
-      "url":  "url6"
-    }, 
-    {
-      "name":  "name7",
-      "url":  "url8"
-    }
-  ]
-}]}
+}
