@@ -1,4 +1,6 @@
-[{"name": "categoryname1",
+{
+  "arrayOffers":
+  [{"name": "categoryname1",
   "subcat": 
   [
     {
@@ -24,4 +26,4 @@
       "url":  "url8"
     }
   ]
-}]
+}]}
