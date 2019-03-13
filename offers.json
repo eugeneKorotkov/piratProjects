@@ -2,34 +2,34 @@
   "arrayOffers": [
     {
       "name": "categoryname1",
-      "urlIcon": "url",
-      "color": "#000000",
+      "urlIcon": "https://raw.githubusercontent.com/eugeneKorotkov/piratProjects/master/baseline_android_black_18dp.png",
+      "color": "#333333",
       "subcat": [
         {
           "name": "name2",
-          "urlIcon": "urlIcon",
+          "urlIcon": "https://raw.githubusercontent.com/eugeneKorotkov/piratProjects/master/baseline_android_black_18dp.png",
           "url": "url1"
         },
         {
           "name": "name3",
-          "urlIcon": "urlIcon",
+          "urlIcon": "https://raw.githubusercontent.com/eugeneKorotkov/piratProjects/master/baseline_android_black_18dp.png",
           "url": "url2"
         }
       ]
     },
     {
       "name": "categoryname2",
-      "urlIcon": "url",
+      "urlIcon": "https://raw.githubusercontent.com/eugeneKorotkov/piratProjects/master/baseline_android_black_18dp.png",
       "color": "#000000",
       "subcat": [
         {
           "name": "name5",
-           "urlIcon": "urlIcon",
+           "urlIcon": "https://raw.githubusercontent.com/eugeneKorotkov/piratProjects/master/baseline_android_black_18dp.png",
           "url": "url1"
         },
         {
           "name": "name7",
-          "urlIcon": "urlIcon",
+          "urlIcon": "https://raw.githubusercontent.com/eugeneKorotkov/piratProjects/master/baseline_android_black_18dp.png",
           "url": "url1"
         }
       ]
